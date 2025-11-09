@@ -9,9 +9,9 @@ body {
 }
 
 .business-card {
-    width: 600px;
+    width: 300px;
     background-color: rgb(238, 203, 203);
-    padding: 20px;
+    padding: 100px;
     margin-top: 100px;
     margin-bottom: 100px;
     align-items: center;
@@ -25,4 +25,8 @@ body {
     display: block;
     margin: 0 auto;
     border: 1px solid black;
+}
+
+.hr {
+    border-top: 1px solid black;
 }
