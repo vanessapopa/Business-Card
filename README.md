@@ -4,7 +4,8 @@ A simple, static and styled business card web page built with HTML and CSS.
 
 ## Note
 
-This project was completed as part of freeCodeCamp's Full Stack Developer curriculum, under the CSS → Basic CSS section ("Build a Business Card" lab).
+This project was completed as part of freeCodeCamp's [Full Stack Developer curriculum](https://www.freecodecamp.org/learn/full-stack-developer/),  
+under the **CSS → Basic CSS** section (“Design a Business Card” lab). 
 
 The Business Card was coded by me, following the user stories and design specifications provided by freeCodeCamp. All HTML and CSS were written from scratch to meet the defined requirements and pass the associated tests.
 
@@ -50,4 +51,4 @@ Project prompt, user stories and design from freeCodeCamp. Code written independ
 
 ## Preview
 
-![Business Card](preview.png)
+![Business Card](https://github.com/user-attachments/assets/e29df0db-1072-450c-968b-f50877caefc9)
