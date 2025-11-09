@@ -1,6 +1,6 @@
 body {
   background-color: rosybrown;
-  font: Arial sans-serif;
+  font-family: monospace, sans-serif;
 }
 
 .p {
@@ -9,15 +9,17 @@ body {
 }
 
 .business-card {
-    width: 300px;
+    width: 350px;
     background-color: rgb(238, 203, 203);
-    padding: 100px;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    align-items: center;
+    padding: 50px;
     font-size: 16px;
     border-radius: 10px;
     border: 2px solid black;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50vh;
+    transform: translateY(-50%);
 }
 
 .profile-image {
